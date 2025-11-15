@@ -1,4 +1,4 @@
-#📌 3D Projection Visualizer (C++ & graphics.h)
+📌 3D Projection Visualizer (C++ & graphics.h)
 
 An interactive 3D Projection Visualizer built using C++ and the classic graphics.h (BGI / WinBGIm) graphics library.
 This tool helps users understand how 3D objects are projected onto a 2D screen through different projection methods—Orthographic, Perspective, and Isometric.
